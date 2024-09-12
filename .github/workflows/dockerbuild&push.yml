@@ -1,5 +1,5 @@
 
-name: CI
+name: app-build
 on:
   push:
     branches: [ "main" ]
